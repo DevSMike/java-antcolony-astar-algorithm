@@ -28,6 +28,14 @@ The project utilizes two algorithms for finding the shortest path:
 
 2. Ant Colony Optimization: An algorithm inspired by the foraging behavior of ants. It uses artificial ants to explore the graph, leaving pheromone trails that influence subsequent ant movements.
 
+
+## Development Stack
+
+The project is developed using the following technologies:
+
+- Java 11
+
+
 ## Contributing
 
 Contributions to this project are welcome. To contribute, follow these steps:
